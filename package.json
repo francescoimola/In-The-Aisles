@@ -1,0 +1,13 @@
+{
+  "name": "in_the_aisles",
+  "version": "1.0.0",
+  "description": "In The Aisles, Francesco Imola, 2019",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francesco Imola",
+  "license": "GPLv3"
+}
